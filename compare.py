@@ -1,3 +1,4 @@
+#練習:找出三個數字中最大者
 a = int(input('a = '))
 b = int(input('b = '))
 c = int(input('c = '))
